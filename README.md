@@ -1,5 +1,5 @@
 # Ardour stem Separation
-lau script for stem separation in Ardour using lua using Facebook demucs Docker image
+Lua script for stem separation in Ardour using Facebook demucs Docker image
 
 # Directions
 clone the following github repo: https://github.com/xserrat/docker-facebook-demucs
